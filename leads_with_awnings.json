@@ -1,0 +1,1868 @@
+[
+    {
+        "name": "Frank Pepe Pizzeria Napoletana",
+        "address": "157 Wooster St, New Haven, CT 06511, USA",
+        "phone": "(203) 865-5762",
+        "Maps_url": "https://maps.google.com/?cid=8727798983627064826",
+        "place_id": "ChIJa0gEhDTY54kR-kUbCu9eH3k",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJa0gEhDTY54kR-kUbCu9eH3k_heading_346.jpg",
+            "saved_images/ChIJa0gEhDTY54kR-kUbCu9eH3k_heading_11.jpg",
+            "saved_images/ChIJa0gEhDTY54kR-kUbCu9eH3k_heading_36.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Claire's Corner Copia",
+        "address": "1000 Chapel St, New Haven, CT 06510, USA",
+        "phone": "(203) 562-3888",
+        "Maps_url": "https://maps.google.com/?cid=4840959286615611583",
+        "place_id": "ChIJq6raUbPZ54kRvxjamtKKLkM",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJq6raUbPZ54kRvxjamtKKLkM_heading_342.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Encore by Goodfellas",
+        "address": "702 State St, New Haven, CT 06511, USA",
+        "phone": "(203) 785-8722",
+        "Maps_url": "https://maps.google.com/?cid=11950505672241749965",
+        "place_id": "ChIJIVMZ0c7Z54kRzZ9CqJe52KU",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJIVMZ0c7Z54kRzZ9CqJe52KU_heading_305.jpg",
+            "saved_images/ChIJIVMZ0c7Z54kRzZ9CqJe52KU_heading_330.jpg",
+            "saved_images/ChIJIVMZ0c7Z54kRzZ9CqJe52KU_heading_355.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "VivaZ Cantina/ Viva Zapata",
+        "address": "161 Park St, New Haven, CT 06511, USA",
+        "phone": "(475) 238-6390",
+        "Maps_url": "https://maps.google.com/?cid=13015433003110505996",
+        "place_id": "ChIJV1VlqLLZ54kRDB5MjFsboLQ",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJV1VlqLLZ54kRDB5MjFsboLQ_heading_75.jpg",
+            "saved_images/ChIJV1VlqLLZ54kRDB5MjFsboLQ_heading_100.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Mamoun's Falafel Restaurant",
+        "address": "85 Howe St, New Haven, CT 06511, USA",
+        "phone": "(203) 562-8444",
+        "Maps_url": "https://maps.google.com/?cid=9811168605120411590",
+        "place_id": "ChIJN-hQga3Z54kRxreqU91FKIg",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJN-hQga3Z54kRxreqU91FKIg_heading_97.jpg",
+            "saved_images/ChIJN-hQga3Z54kRxreqU91FKIg_heading_122.jpg",
+            "saved_images/ChIJN-hQga3Z54kRxreqU91FKIg_heading_147.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Christopher Martins Restaurant",
+        "address": "860 State St, New Haven, CT 06511, USA",
+        "phone": "(203) 776-8835",
+        "Maps_url": "https://maps.google.com/?cid=17621506040073562364",
+        "place_id": "ChIJUbJShM_Z54kR_Cj8dWEqjPQ",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJUbJShM_Z54kR_Cj8dWEqjPQ_heading_66.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Popeyes Louisiana Kitchen",
+        "address": "35 Whalley Ave, New Haven, CT 06511, USA",
+        "phone": "(203) 691-8546",
+        "Maps_url": "https://maps.google.com/?cid=8676976252079834925",
+        "place_id": "ChIJR_AF57HZ54kRLQe4ve3Pang",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJR_AF57HZ54kRLQe4ve3Pang_heading_11.jpg",
+            "saved_images/ChIJR_AF57HZ54kRLQe4ve3Pang_heading_36.jpg",
+            "saved_images/ChIJR_AF57HZ54kRLQe4ve3Pang_heading_61.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Yorkside Pizza & Restaurant",
+        "address": "288 York St, New Haven, CT 06511, USA",
+        "phone": "(203) 787-7471",
+        "Maps_url": "https://maps.google.com/?cid=17326991000790261857",
+        "place_id": "ChIJT-FM5rPZ54kRYWB-TIPWdfA",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJT-FM5rPZ54kRYWB-TIPWdfA_heading_313.jpg",
+            "saved_images/ChIJT-FM5rPZ54kRYWB-TIPWdfA_heading_338.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Book Trader Cafe",
+        "address": "1140 Chapel St #4843, New Haven, CT 06511, USA",
+        "phone": "(203) 787-6147",
+        "Maps_url": "https://maps.google.com/?cid=11757875731046963149",
+        "place_id": "ChIJ5V1L6LLZ54kRzZc9dq5dLKM",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJ5V1L6LLZ54kRzZc9dq5dLKM_heading_158.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Zaroka Bar & Grill",
+        "address": "148 York St, New Haven, CT 06511, USA",
+        "phone": "(203) 776-8644",
+        "Maps_url": "https://maps.google.com/?cid=8061051134729496442",
+        "place_id": "ChIJcyiHzrLZ54kReqfPOUyb3m8",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJcyiHzrLZ54kReqfPOUyb3m8_heading_264.jpg",
+            "saved_images/ChIJcyiHzrLZ54kReqfPOUyb3m8_heading_289.jpg",
+            "saved_images/ChIJcyiHzrLZ54kReqfPOUyb3m8_heading_314.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Lalibela Ethiopian Restaurant",
+        "address": "176 Temple St, New Haven, CT 06510, USA",
+        "phone": "(203) 789-1232",
+        "Maps_url": "https://maps.google.com/?cid=10346950112336648768",
+        "place_id": "ChIJ82YOTEvY54kRQJqDgk7Al48",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJ82YOTEvY54kRQJqDgk7Al48_heading_328.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "168 York Street Cafe",
+        "address": "168 York St, New Haven, CT 06510, USA",
+        "phone": "(203) 789-1915",
+        "Maps_url": "https://maps.google.com/?cid=12521945851474716341",
+        "place_id": "ChIJPy1-27LZ54kRtabTZWjjxq0",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJPy1-27LZ54kRtabTZWjjxq0_heading_279.jpg",
+            "saved_images/ChIJPy1-27LZ54kRtabTZWjjxq0_heading_304.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "L'Orcio",
+        "address": "806 State St, New Haven, CT 06511, USA",
+        "phone": "(203) 777-6670",
+        "Maps_url": "https://maps.google.com/?cid=8483504929215123624",
+        "place_id": "ChIJl1IGGs_Z54kRqJAkHMl2u3U",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJl1IGGs_Z54kRqJAkHMl2u3U_heading_351.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Nica's Market",
+        "address": "603 Orange St, New Haven, CT 06511, USA",
+        "phone": "(203) 787-5919",
+        "Maps_url": "https://maps.google.com/?cid=14194080305211913322",
+        "place_id": "ChIJY7R5zsXZ54kRajSGidWA-8Q",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJY7R5zsXZ54kRajSGidWA-8Q_heading_121.jpg",
+            "saved_images/ChIJY7R5zsXZ54kRajSGidWA-8Q_heading_146.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Tibetan Kitchen",
+        "address": "1217 Chapel St, New Haven, CT 06511, USA",
+        "phone": "(203) 507-2991",
+        "Maps_url": "https://maps.google.com/?cid=12057965095748454234",
+        "place_id": "ChIJF4572VpK5okRWkclZl5_Vqc",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJF4572VpK5okRWkclZl5_Vqc_heading_56.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Koffee?",
+        "address": "104 Audubon St, New Haven, CT 06511, USA",
+        "phone": "(203) 465-6244",
+        "Maps_url": "https://maps.google.com/?cid=3535402222673064670",
+        "place_id": "ChIJD5dl5snZ54kR3vKNFJdFEDE",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJD5dl5snZ54kR3vKNFJdFEDE_heading_227.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Bruegger's Bagels",
+        "address": "1 Whitney Ave, New Haven, CT 06510, USA",
+        "phone": "(203) 773-3199",
+        "Maps_url": "https://maps.google.com/?cid=4795523669364757322",
+        "place_id": "ChIJzW7F_8nZ54kRStN2mF4fjUI",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJzW7F_8nZ54kRStN2mF4fjUI_heading_69.jpg",
+            "saved_images/ChIJzW7F_8nZ54kRStN2mF4fjUI_heading_94.jpg",
+            "saved_images/ChIJzW7F_8nZ54kRStN2mF4fjUI_heading_119.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Dunkin'",
+        "address": "1179 Chapel St, New Haven, CT 06511, USA",
+        "phone": "(203) 624-1107",
+        "Maps_url": "https://maps.google.com/?cid=5541257458193958107",
+        "place_id": "ChIJXbEQmrLZ54kR24SipEyA5kw",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJXbEQmrLZ54kR24SipEyA5kw_heading_54.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Deja Brew",
+        "address": "763 Edgewood Ave, New Haven, CT 06515, USA",
+        "phone": "(203) 389-1518",
+        "Maps_url": "https://maps.google.com/?cid=17891773220022899049",
+        "place_id": "ChIJ-zntvBvZ54kRadFP7fJYTPg",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJ-zntvBvZ54kRadFP7fJYTPg_heading_256.jpg",
+            "saved_images/ChIJ-zntvBvZ54kRadFP7fJYTPg_heading_281.jpg",
+            "saved_images/ChIJ-zntvBvZ54kRadFP7fJYTPg_heading_306.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Dunkin'",
+        "address": "81 Church St, New Haven, CT 06510, USA",
+        "phone": "(203) 789-0337",
+        "Maps_url": "https://maps.google.com/?cid=2940167972122677161",
+        "place_id": "ChIJ4R-0PEvY54kRqU9aZjGTzSg",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJ4R-0PEvY54kRqU9aZjGTzSg_heading_61.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Midpoint Coffee Brewers",
+        "address": "248 Crown St, New Haven, CT 06511, USA",
+        "phone": "(774) 433-6295",
+        "Maps_url": "https://maps.google.com/?cid=1371499507963829321",
+        "place_id": "ChIJj1lVxkzY54kRSZzONYmLCBM",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJj1lVxkzY54kRSZzONYmLCBM_heading_185.jpg",
+            "saved_images/ChIJj1lVxkzY54kRSZzONYmLCBM_heading_210.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Poindexter Coffee",
+        "address": "1151 Chapel St, New Haven, CT 06511, USA",
+        "phone": "(475) 207-7070",
+        "Maps_url": "https://maps.google.com/?cid=2091542761836062909",
+        "place_id": "ChIJX3w7qRPZ54kRvSjHdw-nBh0",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJX3w7qRPZ54kRvSjHdw-nBh0_heading_350.jpg",
+            "saved_images/ChIJX3w7qRPZ54kRvSjHdw-nBh0_heading_15.jpg",
+            "saved_images/ChIJX3w7qRPZ54kRvSjHdw-nBh0_heading_40.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Coffee Mart -Midpoint Coffee Brewers",
+        "address": "8 Center St #12, New Haven, CT 06510, USA",
+        "phone": "(203) 823-9746",
+        "Maps_url": "https://maps.google.com/?cid=5752176935074424586",
+        "place_id": "ChIJMU1E1pTZ54kRCmdONHLW008",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJMU1E1pTZ54kRCmdONHLW008_heading_5.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Urban Outfitters",
+        "address": "43 Broadway, New Haven, CT 06511, USA",
+        "phone": "(203) 776-7444",
+        "Maps_url": "https://maps.google.com/?cid=11363102849311417201",
+        "place_id": "ChIJbajy0LPZ54kRcaNvT9bZsZ0",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJbajy0LPZ54kRcaNvT9bZsZ0_heading_75.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Jay Nez Groceries",
+        "address": "227 Ferry St, New Haven, CT 06513, USA",
+        "phone": "(203) 789-8763",
+        "Maps_url": "https://maps.google.com/?cid=6008592195867708880",
+        "place_id": "ChIJOf3Bm37X54kR0A3hasTOYlM",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJOf3Bm37X54kR0A3hasTOYlM_heading_169.jpg",
+            "saved_images/ChIJOf3Bm37X54kR0A3hasTOYlM_heading_194.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "J.Crew",
+        "address": "29 Broadway, New Haven, CT 06511, USA",
+        "phone": "(203) 624-7101",
+        "Maps_url": "https://maps.google.com/?cid=7719333454323641419",
+        "place_id": "ChIJD9a12rPZ54kRS-y_v-CUIGs",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJD9a12rPZ54kRS-y_v-CUIGs_heading_41.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Michael J. Adanti Student Center",
+        "address": "345 Fitch St, New Haven, CT 06515, USA",
+        "phone": "(203) 392-8975",
+        "Maps_url": "https://maps.google.com/?cid=6248696295828179506",
+        "place_id": "ChIJV6A9y3XZ54kRMkojjizUt1Y",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJV6A9y3XZ54kRMkojjizUt1Y_heading_83.jpg",
+            "saved_images/ChIJV6A9y3XZ54kRMkojjizUt1Y_heading_108.jpg",
+            "saved_images/ChIJV6A9y3XZ54kRMkojjizUt1Y_heading_133.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Naturegene",
+        "address": "75 Whitney Ave, New Haven, CT 06510, USA",
+        "phone": "(203) 865-5121",
+        "Maps_url": "https://maps.google.com/?cid=18006102082662536034",
+        "place_id": "ChIJQRJ40cnZ54kRYpOFmnGG4vk",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJQRJ40cnZ54kRYpOFmnGG4vk_heading_66.jpg",
+            "saved_images/ChIJQRJ40cnZ54kRYpOFmnGG4vk_heading_91.jpg",
+            "saved_images/ChIJQRJ40cnZ54kRYpOFmnGG4vk_heading_116.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Tous Les Jours",
+        "address": "831 Chapel St, New Haven, CT 06510, USA",
+        "phone": "(203) 745-5639",
+        "Maps_url": "https://maps.google.com/?cid=15618529962451183551",
+        "place_id": "ChIJYSzdI-PZ54kRv6eyFUAqwNg",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJYSzdI-PZ54kRv6eyFUAqwNg_heading_33.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Cookie39",
+        "address": "39 Broadway, New Haven, CT 06511, USA",
+        "phone": "(203) 390-5843",
+        "Maps_url": "https://maps.google.com/?cid=14536499872277358494",
+        "place_id": "ChIJBbaeDI_Z54kRnmeavJ0FvMk",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJBbaeDI_Z54kRnmeavJ0FvMk_heading_16.jpg",
+            "saved_images/ChIJBbaeDI_Z54kRnmeavJ0FvMk_heading_41.jpg",
+            "saved_images/ChIJBbaeDI_Z54kRnmeavJ0FvMk_heading_66.jpg"
+        ],
+        "status": "New",
+        "notes": "",
+        "follow_up": false
+    },
+    {
+        "name": "Cave a' Vin",
+        "address": "975 State St, New Haven, CT 06511, USA",
+        "phone": "(203) 777-6206",
+        "Maps_url": "https://maps.google.com/?cid=735223291904183282",
+        "place_id": "ChIJezCe2trZ54kR8suKSLAJNAo",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJezCe2trZ54kR8suKSLAJNAo_heading_88.jpg",
+            "saved_images/ChIJezCe2trZ54kR8suKSLAJNAo_heading_113.jpg",
+            "saved_images/ChIJezCe2trZ54kR8suKSLAJNAo_heading_138.jpg"
+        ]
+    },
+    {
+        "name": "Jack's Bar And Steakhouse",
+        "address": "212 College St, New Haven, CT 06510, USA",
+        "phone": "(203) 891-5777",
+        "Maps_url": "https://maps.google.com/?cid=17011505488908988461",
+        "place_id": "ChIJsV5Gx0zY54kRLTAHgRwCFew",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJsV5Gx0zY54kRLTAHgRwCFew_heading_176.jpg",
+            "saved_images/ChIJsV5Gx0zY54kRLTAHgRwCFew_heading_201.jpg",
+            "saved_images/ChIJsV5Gx0zY54kRLTAHgRwCFew_heading_226.jpg"
+        ]
+    },
+    {
+        "name": "Bar August",
+        "address": "3 Edwards St, New Haven, CT 06511, USA",
+        "phone": "(203) 745-4531",
+        "Maps_url": "https://maps.google.com/?cid=15153156698982508081",
+        "place_id": "ChIJI9oK2drZ54kRMeaunLvTStI",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJI9oK2drZ54kRMeaunLvTStI_heading_354.jpg",
+            "saved_images/ChIJI9oK2drZ54kRMeaunLvTStI_heading_19.jpg",
+            "saved_images/ChIJI9oK2drZ54kRMeaunLvTStI_heading_44.jpg"
+        ]
+    },
+    {
+        "name": "Burton's Bar",
+        "address": "202 Wood St, West Haven, CT 06516, USA",
+        "phone": "(203) 933-9929",
+        "Maps_url": "https://maps.google.com/?cid=12797842932260376362",
+        "place_id": "ChIJ_UZYaYbY54kRKo-fTFcSm7E",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJ_UZYaYbY54kRKo-fTFcSm7E_heading_138.jpg",
+            "saved_images/ChIJ_UZYaYbY54kRKo-fTFcSm7E_heading_163.jpg"
+        ]
+    },
+    {
+        "name": "Diesel Lounge",
+        "address": "944 State St, New Haven, CT 06511, USA",
+        "phone": "(203) 776-9899",
+        "Maps_url": "https://maps.google.com/?cid=12754629820444301163",
+        "place_id": "ChIJ88Y-NcXZ54kRa9cvqT6MAbE",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJ88Y-NcXZ54kRa9cvqT6MAbE_heading_301.jpg",
+            "saved_images/ChIJ88Y-NcXZ54kRa9cvqT6MAbE_heading_326.jpg"
+        ]
+    },
+    {
+        "name": "La Molienda Cafe",
+        "address": "113 Grand Ave, New Haven, CT 06513, USA",
+        "phone": "(203) 562-0675",
+        "Maps_url": "https://maps.google.com/?cid=17148095400848012380",
+        "place_id": "ChIJCzv7a3vX54kRXDQOnulF-u0",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJCzv7a3vX54kRXDQOnulF-u0_heading_340.jpg",
+            "saved_images/ChIJCzv7a3vX54kRXDQOnulF-u0_heading_5.jpg",
+            "saved_images/ChIJCzv7a3vX54kRXDQOnulF-u0_heading_30.jpg"
+        ]
+    },
+    {
+        "name": "Strega Restaurant",
+        "address": "1006 Chapel St, New Haven, CT 06510, USA",
+        "phone": "(475) 300-2924",
+        "Maps_url": "https://maps.google.com/?cid=5256550141247303036",
+        "place_id": "ChIJsSAoZc3Z54kRfC0TyYAE80g",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJsSAoZc3Z54kRfC0TyYAE80g_heading_194.jpg",
+            "saved_images/ChIJsSAoZc3Z54kRfC0TyYAE80g_heading_219.jpg",
+            "saved_images/ChIJsSAoZc3Z54kRfC0TyYAE80g_heading_244.jpg"
+        ]
+    },
+    {
+        "name": "Te Amo Tequila Bar & Tacos",
+        "address": "182 Temple St, New Haven, CT 06510, USA",
+        "phone": "(203) 553-7914",
+        "Maps_url": "https://maps.google.com/?cid=3131747467040642205",
+        "place_id": "ChIJtZ5T6tDZ54kRndQvg7ozdis",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJtZ5T6tDZ54kRndQvg7ozdis_heading_257.jpg"
+        ]
+    },
+    {
+        "name": "Chacra- pisco bar Peruvian Cuisine",
+        "address": "152 Temple St, New Haven, CT 06510, USA",
+        "phone": "(203) 714-1771",
+        "Maps_url": "https://maps.google.com/?cid=14177488209038181848",
+        "place_id": "ChIJP34eFRLZ54kR2IUCG2mOwMQ",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJP34eFRLZ54kR2IUCG2mOwMQ_heading_275.jpg",
+            "saved_images/ChIJP34eFRLZ54kR2IUCG2mOwMQ_heading_300.jpg"
+        ]
+    },
+    {
+        "name": "Elm City Tap house",
+        "address": "144 Temple St, New Haven, CT 06510, USA",
+        "phone": "(475) 254-8187",
+        "Maps_url": "https://maps.google.com/?cid=15456615767052340855",
+        "place_id": "ChIJTePMY_jZ54kRd07bwCXugNY",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJTePMY_jZ54kRd07bwCXugNY_heading_269.jpg",
+            "saved_images/ChIJTePMY_jZ54kRd07bwCXugNY_heading_294.jpg",
+            "saved_images/ChIJTePMY_jZ54kRd07bwCXugNY_heading_319.jpg"
+        ]
+    },
+    {
+        "name": "Vanity Restaurant, Nightclub and Entertainment Venue",
+        "address": "144 Temple St, New Haven, CT 06510, USA",
+        "phone": "N/A",
+        "Maps_url": "https://maps.google.com/?cid=9125582645032082385",
+        "place_id": "ChIJrWKoXEvY54kR0Vub9RCVpH4",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJrWKoXEvY54kR0Vub9RCVpH4_heading_269.jpg",
+            "saved_images/ChIJrWKoXEvY54kR0Vub9RCVpH4_heading_294.jpg",
+            "saved_images/ChIJrWKoXEvY54kR0Vub9RCVpH4_heading_319.jpg"
+        ]
+    },
+    {
+        "name": "Old Heidelberg",
+        "address": "1151 Chapel St, New Haven, CT 06511, USA",
+        "phone": "(475) 207-7070",
+        "Maps_url": "https://maps.google.com/?cid=17664759821774549020",
+        "place_id": "ChIJS3rIDsHZ54kRHPB2S3fVJfU",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJS3rIDsHZ54kRHPB2S3fVJfU_heading_355.jpg",
+            "saved_images/ChIJS3rIDsHZ54kRHPB2S3fVJfU_heading_20.jpg",
+            "saved_images/ChIJS3rIDsHZ54kRHPB2S3fVJfU_heading_45.jpg"
+        ]
+    },
+    {
+        "name": "Atelier Florian",
+        "address": "1166 Chapel St, New Haven, CT 06511, USA",
+        "phone": "(203) 859-5999",
+        "Maps_url": "https://maps.google.com/?cid=16018461285840188927",
+        "place_id": "ChIJcwpGvLLZ54kR__XZhqsBTd4",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJcwpGvLLZ54kR__XZhqsBTd4_heading_154.jpg",
+            "saved_images/ChIJcwpGvLLZ54kR__XZhqsBTd4_heading_179.jpg",
+            "saved_images/ChIJcwpGvLLZ54kR__XZhqsBTd4_heading_204.jpg"
+        ]
+    },
+    {
+        "name": "J. Press",
+        "address": "262 Elm St, New Haven, CT 06511, USA",
+        "phone": "(203) 772-1310",
+        "Maps_url": "https://maps.google.com/?cid=1929231356239204819",
+        "place_id": "ChIJccLoubPZ54kR09EubrIBxho",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJccLoubPZ54kR09EubrIBxho_heading_193.jpg",
+            "saved_images/ChIJccLoubPZ54kR09EubrIBxho_heading_218.jpg",
+            "saved_images/ChIJccLoubPZ54kR09EubrIBxho_heading_243.jpg"
+        ]
+    },
+    {
+        "name": "EBM Vintage",
+        "address": "839 Chapel St, New Haven, CT 06510, USA",
+        "phone": "(203) 772-1728",
+        "Maps_url": "https://maps.google.com/?cid=18157919413874453178",
+        "place_id": "ChIJowEs0UrY54kRuuonjIDj_fs",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJowEs0UrY54kRuuonjIDj_fs_heading_65.jpg"
+        ]
+    },
+    {
+        "name": "Lou Lou Boutiques",
+        "address": "23 Broadway, New Haven, CT 06511, USA",
+        "phone": "(203) 687-4457",
+        "Maps_url": "https://maps.google.com/?cid=5845095829048345243",
+        "place_id": "ChIJS0u9kQvQ54kRm0KLGLDzHVE",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJS0u9kQvQ54kRm0KLGLDzHVE_heading_26.jpg",
+            "saved_images/ChIJS0u9kQvQ54kRm0KLGLDzHVE_heading_51.jpg",
+            "saved_images/ChIJS0u9kQvQ54kRm0KLGLDzHVE_heading_76.jpg"
+        ]
+    },
+    {
+        "name": "Bluemercury",
+        "address": "51 Broadway, New Haven, CT 06511, USA",
+        "phone": "(203) 495-7300",
+        "Maps_url": "https://maps.google.com/?cid=2290889907242090178",
+        "place_id": "ChIJLRQ92LPZ54kRwj6xpDvgyh8",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJLRQ92LPZ54kRwj6xpDvgyh8_heading_17.jpg",
+            "saved_images/ChIJLRQ92LPZ54kRwj6xpDvgyh8_heading_42.jpg",
+            "saved_images/ChIJLRQ92LPZ54kRwj6xpDvgyh8_heading_67.jpg"
+        ]
+    },
+    {
+        "name": "Bridal Trousseau",
+        "address": "82 Crown St, New Haven, CT 06510, USA",
+        "phone": "(203) 745-4649",
+        "Maps_url": "https://maps.google.com/?cid=11473138774205026631",
+        "place_id": "ChIJgciQTW7W54kRR1FAh-3GOJ8",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJgciQTW7W54kRR1FAh-3GOJ8_heading_184.jpg",
+            "saved_images/ChIJgciQTW7W54kRR1FAh-3GOJ8_heading_209.jpg"
+        ]
+    },
+    {
+        "name": "Vintanthro Modern & Vintage",
+        "address": "895 Whalley Ave, New Haven, CT 06515, USA",
+        "phone": "(484) 816-8243",
+        "Maps_url": "https://maps.google.com/?cid=4467275981287945786",
+        "place_id": "ChIJAST8PdnZ54kROnZNGtbz_j0",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJAST8PdnZ54kROnZNGtbz_j0_heading_15.jpg",
+            "saved_images/ChIJAST8PdnZ54kROnZNGtbz_j0_heading_40.jpg",
+            "saved_images/ChIJAST8PdnZ54kROnZNGtbz_j0_heading_65.jpg"
+        ]
+    },
+    {
+        "name": "Blacprint LLC",
+        "address": "928 Chapel St, New Haven, CT 06510, USA",
+        "phone": "(203) 507-9677",
+        "Maps_url": "https://maps.google.com/?cid=7962627737841830460",
+        "place_id": "ChIJPY1iqtTZ54kRPAq8YL3vgG4",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJPY1iqtTZ54kRPAq8YL3vgG4_heading_288.jpg"
+        ]
+    },
+    {
+        "name": "Tinaliah Designs",
+        "address": "928 Chapel St Room #205, New Haven, CT 06510, USA",
+        "phone": "(203) 823-7425",
+        "Maps_url": "https://maps.google.com/?cid=8792474202898219957",
+        "place_id": "ChIJN0MYyOvZ54kRtcOI-LMkBXo",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJN0MYyOvZ54kRtcOI-LMkBXo_heading_288.jpg"
+        ]
+    },
+    {
+        "name": "More Amour Boutique",
+        "address": "1130 Chapel St, New Haven, CT 06511, USA",
+        "phone": "(475) 333-0863",
+        "Maps_url": "https://maps.google.com/?cid=12705357829276461073",
+        "place_id": "ChIJjyo3WE_Z54kREWhAPqF_UrA",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJjyo3WE_Z54kREWhAPqF_UrA_heading_329.jpg",
+            "saved_images/ChIJjyo3WE_Z54kREWhAPqF_UrA_heading_354.jpg"
+        ]
+    },
+    {
+        "name": "lululemon",
+        "address": "13 Broadway, New Haven, CT 06511, USA",
+        "phone": "(475) 275-9793",
+        "Maps_url": "https://maps.google.com/?cid=6583538251144337120",
+        "place_id": "ChIJT3ftzSLZ54kR4JaniChtXVs",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJT3ftzSLZ54kR4JaniChtXVs_heading_21.jpg"
+        ]
+    },
+    {
+        "name": "Neville Wisdom Fashion Design Studio",
+        "address": "27 Broadway, New Haven, CT 06511, USA",
+        "phone": "(475) 301-8746",
+        "Maps_url": "https://maps.google.com/?cid=8422997603987340444",
+        "place_id": "ChIJa6iSNxLZ54kRnLyhobF_5HQ",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJa6iSNxLZ54kRnLyhobF_5HQ_heading_26.jpg",
+            "saved_images/ChIJa6iSNxLZ54kRnLyhobF_5HQ_heading_51.jpg",
+            "saved_images/ChIJa6iSNxLZ54kRnLyhobF_5HQ_heading_76.jpg"
+        ]
+    },
+    {
+        "name": "Ferrucci Ltd",
+        "address": "53 Elm St, New Haven, CT 06510, USA",
+        "phone": "(203) 787-2928",
+        "Maps_url": "https://maps.google.com/?cid=6199266654480221238",
+        "place_id": "ChIJsWnJYrXZ54kRNsQ3WC04CFY",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJsWnJYrXZ54kRNsQ3WC04CFY_heading_22.jpg",
+            "saved_images/ChIJsWnJYrXZ54kRNsQ3WC04CFY_heading_47.jpg",
+            "saved_images/ChIJsWnJYrXZ54kRNsQ3WC04CFY_heading_72.jpg"
+        ]
+    },
+    {
+        "name": "MINIPNG",
+        "address": "77 Audubon St, New Haven, CT 06510, USA",
+        "phone": "(860) 510-2966",
+        "Maps_url": "https://maps.google.com/?cid=7776112668456791591",
+        "place_id": "ChIJs1OHZOfZ54kRJy7IuEVN6ms",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJs1OHZOfZ54kRJy7IuEVN6ms_heading_360.jpg",
+            "saved_images/ChIJs1OHZOfZ54kRJy7IuEVN6ms_heading_50.jpg"
+        ]
+    },
+    {
+        "name": "P&M Orange Street Market",
+        "address": "721 Orange St, New Haven, CT 06511, USA",
+        "phone": "(203) 865-1147",
+        "Maps_url": "https://maps.google.com/?cid=17541487857126784727",
+        "place_id": "ChIJF2eHdMPZ54kR177ea0Tib_M",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJF2eHdMPZ54kR177ea0Tib_M_heading_39.jpg"
+        ]
+    },
+    {
+        "name": "La Placita Meat Market",
+        "address": "440 Lombard St, New Haven, CT 06513, USA",
+        "phone": "(203) 785-0835",
+        "Maps_url": "https://maps.google.com/?cid=2901804863149209286",
+        "place_id": "ChIJZbXhhdjZ54kRxnaCCyZIRSg",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJZbXhhdjZ54kRxnaCCyZIRSg_heading_82.jpg",
+            "saved_images/ChIJZbXhhdjZ54kRxnaCCyZIRSg_heading_132.jpg"
+        ]
+    },
+    {
+        "name": "Chapel Mini Mart",
+        "address": "1182 Chapel St, New Haven, CT 06511, USA",
+        "phone": "(203) 772-0566",
+        "Maps_url": "https://maps.google.com/?cid=17960710241540544001",
+        "place_id": "ChIJG48TmbLZ54kRAZa-BM5CQfk",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJG48TmbLZ54kRAZa-BM5CQfk_heading_198.jpg"
+        ]
+    },
+    {
+        "name": "Mist convenience",
+        "address": "340 Orange St, New Haven, CT 06511, USA",
+        "phone": "(203) 691-7966",
+        "Maps_url": "https://maps.google.com/?cid=4452938735088171967",
+        "place_id": "ChIJAa0p2vTZ54kRv_uB1y8EzD0",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJAa0p2vTZ54kRv_uB1y8EzD0_heading_303.jpg",
+            "saved_images/ChIJAa0p2vTZ54kRv_uB1y8EzD0_heading_328.jpg"
+        ]
+    },
+    {
+        "name": "Mist tobacco & convenience",
+        "address": "342 Orange St, New Haven, CT 06511, USA",
+        "phone": "(203) 691-7966",
+        "Maps_url": "https://maps.google.com/?cid=7928148290008620114",
+        "place_id": "ChIJIwIiNt7Z54kRUpyVWN1wBm4",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJIwIiNt7Z54kRUpyVWN1wBm4_heading_284.jpg",
+            "saved_images/ChIJIwIiNt7Z54kRUpyVWN1wBm4_heading_309.jpg",
+            "saved_images/ChIJIwIiNt7Z54kRUpyVWN1wBm4_heading_334.jpg"
+        ]
+    },
+    {
+        "name": "Elius Delight Mini Market",
+        "address": "1379 Chapel St, New Haven, CT 06511, USA",
+        "phone": "(203) 772-3250",
+        "Maps_url": "https://maps.google.com/?cid=8586419600494622951",
+        "place_id": "ChIJX-z-cKvZ54kR5_juQyIXKXc",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJX-z-cKvZ54kR5_juQyIXKXc_heading_345.jpg",
+            "saved_images/ChIJX-z-cKvZ54kR5_juQyIXKXc_heading_10.jpg"
+        ]
+    },
+    {
+        "name": "Howard Mini Mart & Deli",
+        "address": "660 Howard Ave, New Haven, CT 06519, USA",
+        "phone": "(203) 497-8100",
+        "Maps_url": "https://maps.google.com/?cid=8129525656212136479",
+        "place_id": "ChIJj9tiGVDY54kRH-LyIoPg0XA",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJj9tiGVDY54kRH-LyIoPg0XA_heading_280.jpg"
+        ]
+    },
+    {
+        "name": "Congress Mini Mart",
+        "address": "750 Congress Ave, New Haven, CT 06519, USA",
+        "phone": "(203) 507-2534",
+        "Maps_url": "https://maps.google.com/?cid=12725931875027229686",
+        "place_id": "ChIJO5tnXVfY54kR9pvRjp2Xm7A",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJO5tnXVfY54kR9pvRjp2Xm7A_heading_108.jpg",
+            "saved_images/ChIJO5tnXVfY54kR9pvRjp2Xm7A_heading_133.jpg",
+            "saved_images/ChIJO5tnXVfY54kR9pvRjp2Xm7A_heading_158.jpg"
+        ]
+    },
+    {
+        "name": "New Haven Visitor Center & Snack Shack",
+        "address": "351 Long Wharf Dr, New Haven, CT 06511, USA",
+        "phone": "(203) 693-1061",
+        "Maps_url": "https://maps.google.com/?cid=13932683073947130680",
+        "place_id": "ChIJFY4rljnY54kROFu37m_VWsE",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJFY4rljnY54kROFu37m_VWsE_heading_109.jpg",
+            "saved_images/ChIJFY4rljnY54kROFu37m_VWsE_heading_134.jpg",
+            "saved_images/ChIJFY4rljnY54kROFu37m_VWsE_heading_159.jpg"
+        ]
+    },
+    {
+        "name": "Friends food Mart & deli",
+        "address": "35 Kimberly Ave, New Haven, CT 06519, USA",
+        "phone": "(475) 234-5287",
+        "Maps_url": "https://maps.google.com/?cid=13387283107056378873",
+        "place_id": "ChIJjb4GSzXZ54kR-eOulw4vybk",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJjb4GSzXZ54kR-eOulw4vybk_heading_265.jpg",
+            "saved_images/ChIJjb4GSzXZ54kR-eOulw4vybk_heading_290.jpg",
+            "saved_images/ChIJjb4GSzXZ54kR-eOulw4vybk_heading_315.jpg"
+        ]
+    },
+    {
+        "name": "FNF Food Mart",
+        "address": "429 Blatchley Ave, New Haven, CT 06513, USA",
+        "phone": "N/A",
+        "Maps_url": "https://maps.google.com/?cid=11690703514440077838",
+        "place_id": "ChIJGQOWXdjZ54kRDpKcCOi4PaI",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJGQOWXdjZ54kRDpKcCOi4PaI_heading_91.jpg",
+            "saved_images/ChIJGQOWXdjZ54kRDpKcCOi4PaI_heading_116.jpg"
+        ]
+    },
+    {
+        "name": "DB Mart",
+        "address": "283 Blake St, New Haven, CT 06515, USA",
+        "phone": "N/A",
+        "Maps_url": "https://maps.google.com/?cid=6117638930972737335",
+        "place_id": "ChIJNySoYwzZ54kRN_-68DE45lQ",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJNySoYwzZ54kRN_-68DE45lQ_heading_101.jpg"
+        ]
+    },
+    {
+        "name": "Mae Flower and Gift Shop",
+        "address": "302 Dixwell Ave, New Haven, CT 06511, USA",
+        "phone": "(475) 224-5932",
+        "Maps_url": "https://maps.google.com/?cid=11452421446314673296",
+        "place_id": "ChIJ22uEF33Z54kRkMSmvaAs754",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJ22uEF33Z54kRkMSmvaAs754_heading_226.jpg",
+            "saved_images/ChIJ22uEF33Z54kRkMSmvaAs754_heading_251.jpg"
+        ]
+    },
+    {
+        "name": "Fairy Meadow Flowers",
+        "address": "979 State St, New Haven, CT 06511, USA",
+        "phone": "N/A",
+        "Maps_url": "https://maps.google.com/?cid=14788514739470363393",
+        "place_id": "ChIJg1xG3ffZ54kRAWvCec1bO80",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJg1xG3ffZ54kRAWvCec1bO80_heading_117.jpg",
+            "saved_images/ChIJg1xG3ffZ54kRAWvCec1bO80_heading_142.jpg",
+            "saved_images/ChIJg1xG3ffZ54kRAWvCec1bO80_heading_167.jpg"
+        ]
+    },
+    {
+        "name": "Alternate Universe",
+        "address": "1181 Chapel St, New Haven, CT 06511, USA",
+        "phone": "(203) 562-0108",
+        "Maps_url": "https://maps.google.com/?cid=3262067768500098496",
+        "place_id": "ChIJi_YumrLZ54kRwBWzLloxRS0",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJi_YumrLZ54kRwBWzLloxRS0_heading_31.jpg"
+        ]
+    },
+    {
+        "name": "Southern Connecticut State University Bookstore",
+        "address": "501 Crescent St, New Haven, CT 06515, USA",
+        "phone": "(203) 392-5270",
+        "Maps_url": "https://maps.google.com/?cid=8784955961899539653",
+        "place_id": "ChIJ7SEszZ_Z54kRxdx4FOdu6nk",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJ7SEszZ_Z54kRxdx4FOdu6nk_heading_75.jpg",
+            "saved_images/ChIJ7SEszZ_Z54kRxdx4FOdu6nk_heading_100.jpg",
+            "saved_images/ChIJ7SEszZ_Z54kRxdx4FOdu6nk_heading_125.jpg"
+        ]
+    },
+    {
+        "name": "Grey Matter Books",
+        "address": "264 York St, New Haven, CT 06511, USA",
+        "phone": "(203) 553-3180",
+        "Maps_url": "https://maps.google.com/?cid=10529822124808664388",
+        "place_id": "ChIJ-awz_8fZ54kRRPVE4W5xIZI",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJ-awz_8fZ54kRRPVE4W5xIZI_heading_289.jpg",
+            "saved_images/ChIJ-awz_8fZ54kRRPVE4W5xIZI_heading_314.jpg",
+            "saved_images/ChIJ-awz_8fZ54kRRPVE4W5xIZI_heading_339.jpg"
+        ]
+    },
+    {
+        "name": "Lugo's Hispanic Bookstore",
+        "address": "333 Grand Ave, New Haven, CT 06513, USA",
+        "phone": "(203) 789-8442",
+        "Maps_url": "https://maps.google.com/?cid=7729665444411971475",
+        "place_id": "ChIJry9JQdbZ54kRk5fJpsRJRWs",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJry9JQdbZ54kRk5fJpsRJRWs_heading_330.jpg"
+        ]
+    },
+    {
+        "name": "La Quinta Inn & Suites by Wyndham New Haven",
+        "address": "400 Sargent Dr, New Haven, CT 06511, USA",
+        "phone": "(203) 562-1111",
+        "Maps_url": "https://maps.google.com/?cid=9049061389937183369",
+        "place_id": "ChIJRZDq0DnY54kRiYro4WO5lH0",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJRZDq0DnY54kRiYro4WO5lH0_heading_274.jpg",
+            "saved_images/ChIJRZDq0DnY54kRiYro4WO5lH0_heading_299.jpg",
+            "saved_images/ChIJRZDq0DnY54kRiYro4WO5lH0_heading_324.jpg"
+        ]
+    },
+    {
+        "name": "Toad's Place",
+        "address": "300 York St, New Haven, CT 06511, USA",
+        "phone": "(203) 624-8623",
+        "Maps_url": "https://maps.google.com/?cid=1648620849052890127",
+        "place_id": "ChIJWy434rPZ54kRD7QZbe0T4RY",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJWy434rPZ54kRD7QZbe0T4RY_heading_263.jpg",
+            "saved_images/ChIJWy434rPZ54kRD7QZbe0T4RY_heading_288.jpg",
+            "saved_images/ChIJWy434rPZ54kRD7QZbe0T4RY_heading_313.jpg"
+        ]
+    },
+    {
+        "name": "360 State",
+        "address": "360 State St, New Haven, CT 06511, USA",
+        "phone": "(203) 487-5966",
+        "Maps_url": "https://maps.google.com/?cid=15907202931413019335",
+        "place_id": "ChIJc5KRpkrY54kRx-rsQMm8wdw",
+        "city": "New Haven",
+        "image_filepaths": [
+            "saved_images/ChIJc5KRpkrY54kRx-rsQMm8wdw_heading_12.jpg",
+            "saved_images/ChIJc5KRpkrY54kRx-rsQMm8wdw_heading_37.jpg",
+            "saved_images/ChIJc5KRpkrY54kRx-rsQMm8wdw_heading_62.jpg"
+        ]
+    },
+    {
+        "name": "Fairfield Sportsplex",
+        "address": "85 Mill Plain Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 683-0000",
+        "Maps_url": "https://maps.google.com/?cid=2445095224445586071",
+        "place_id": "ChIJK2DOUm0Q6IkRl0oV5ya57iE",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJK2DOUm0Q6IkRl0oV5ya57iE_heading_86.jpg",
+            "saved_images/ChIJK2DOUm0Q6IkRl0oV5ya57iE_heading_111.jpg"
+        ]
+    },
+    {
+        "name": "Park City Music Hall",
+        "address": "2926 Fairfield Ave, Bridgeport, CT 06605, USA",
+        "phone": "(203) 335-3655",
+        "Maps_url": "https://maps.google.com/?cid=17889900490503927234",
+        "place_id": "ChIJTR6DnyoO6IkRwrWSG7axRfg",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJTR6DnyoO6IkRwrWSG7axRfg_heading_311.jpg",
+            "saved_images/ChIJTR6DnyoO6IkRwrWSG7axRfg_heading_336.jpg"
+        ]
+    },
+    {
+        "name": "Colony Grill - Fairfield",
+        "address": "1520 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 259-1989",
+        "Maps_url": "https://maps.google.com/?cid=15742409659793140890",
+        "place_id": "ChIJ_Xl-UWsQ6IkRmuylwC1GeNo",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJ_Xl-UWsQ6IkRmuylwC1GeNo_heading_11.jpg"
+        ]
+    },
+    {
+        "name": "Gray Goose",
+        "address": "246 Old Post Rd, Southport, CT 06890, USA",
+        "phone": "(203) 292-8779",
+        "Maps_url": "https://maps.google.com/?cid=9834504752595893747",
+        "place_id": "ChIJI3-Wipoa6IkR831ekPcte4g",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJI3-Wipoa6IkR831ekPcte4g_heading_323.jpg",
+            "saved_images/ChIJI3-Wipoa6IkR831ekPcte4g_heading_348.jpg",
+            "saved_images/ChIJI3-Wipoa6IkR831ekPcte4g_heading_13.jpg"
+        ]
+    },
+    {
+        "name": "The Chelsea",
+        "address": "12 Unquowa Pl, Fairfield, CT 06824, USA",
+        "phone": "(203) 254-8200",
+        "Maps_url": "https://maps.google.com/?cid=14293118474034208242",
+        "place_id": "ChIJLTh74BQQ6IkR8t1hIYZbW8Y",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJLTh74BQQ6IkR8t1hIYZbW8Y_heading_31.jpg",
+            "saved_images/ChIJLTh74BQQ6IkR8t1hIYZbW8Y_heading_56.jpg",
+            "saved_images/ChIJLTh74BQQ6IkR8t1hIYZbW8Y_heading_81.jpg"
+        ]
+    },
+    {
+        "name": "Quattro Pazzi Cafe",
+        "address": "1599 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 259-7417",
+        "Maps_url": "https://maps.google.com/?cid=16581432388859438398",
+        "place_id": "ChIJI6bOuWwQ6IkRPqUfzecUHeY",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJI6bOuWwQ6IkRPqUfzecUHeY_heading_168.jpg",
+            "saved_images/ChIJI6bOuWwQ6IkRPqUfzecUHeY_heading_193.jpg"
+        ]
+    },
+    {
+        "name": "Spic & Span Market, LLC",
+        "address": "329 Pequot Ave, Southport, CT 06890, USA",
+        "phone": "(203) 259-1688",
+        "Maps_url": "https://maps.google.com/?cid=8644685683923747856",
+        "place_id": "ChIJ11DRQZsa6IkREAQu-dMX-Hc",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJ11DRQZsa6IkREAQu-dMX-Hc_heading_88.jpg",
+            "saved_images/ChIJ11DRQZsa6IkREAQu-dMX-Hc_heading_113.jpg",
+            "saved_images/ChIJ11DRQZsa6IkREAQu-dMX-Hc_heading_138.jpg"
+        ]
+    },
+    {
+        "name": "Archie Moore's Bar & Restaurant",
+        "address": "48 Sanford St, Fairfield, CT 06824, USA",
+        "phone": "(203) 256-9295",
+        "Maps_url": "https://maps.google.com/?cid=9229397702600342290",
+        "place_id": "ChIJjcJuyhQQ6IkRErtMok9oFYA",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJjcJuyhQQ6IkRErtMok9oFYA_heading_37.jpg",
+            "saved_images/ChIJjcJuyhQQ6IkRErtMok9oFYA_heading_62.jpg"
+        ]
+    },
+    {
+        "name": "Fire Engine Pizza Co",
+        "address": "2914 Fairfield Ave, Bridgeport, CT 06605, USA",
+        "phone": "(203) 333-3473",
+        "Maps_url": "https://maps.google.com/?cid=6541275111431044012",
+        "place_id": "ChIJ21IUmSoO6IkRrHvzgg5Hx1o",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJ21IUmSoO6IkRrHvzgg5Hx1o_heading_256.jpg",
+            "saved_images/ChIJ21IUmSoO6IkRrHvzgg5Hx1o_heading_281.jpg"
+        ]
+    },
+    {
+        "name": "Blackstones Grille",
+        "address": "2600 Post Rd, Southport, CT 06890, USA",
+        "phone": "(203) 955-1470",
+        "Maps_url": "https://maps.google.com/?cid=16118003461122928138",
+        "place_id": "ChIJzzSCcp4a6IkRCq6_RMCmrt8",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJzzSCcp4a6IkRCq6_RMCmrt8_heading_104.jpg",
+            "saved_images/ChIJzzSCcp4a6IkRCq6_RMCmrt8_heading_129.jpg"
+        ]
+    },
+    {
+        "name": "Greenfield Hill Commons",
+        "address": "75 Hillside Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 518-6996",
+        "Maps_url": "https://maps.google.com/?cid=3097919098114494199",
+        "place_id": "ChIJc9C4aawa6IkR904DmgEF_io",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJc9C4aawa6IkR904DmgEF_io_heading_162.jpg"
+        ]
+    },
+    {
+        "name": "Popeyes Louisiana Kitchen",
+        "address": "2201 Fairfield Ave, Bridgeport, CT 06605, USA",
+        "phone": "(203) 690-1433",
+        "Maps_url": "https://maps.google.com/?cid=8367323113224836283",
+        "place_id": "ChIJBT3o2i8O6IkRu5SuHAq0HnQ",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJBT3o2i8O6IkRu5SuHAq0HnQ_heading_280.jpg",
+            "saved_images/ChIJBT3o2i8O6IkRu5SuHAq0HnQ_heading_305.jpg"
+        ]
+    },
+    {
+        "name": "Las Vetas Lounge",
+        "address": "27 Unquowa Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 255-1958",
+        "Maps_url": "https://maps.google.com/?cid=6150643178998743339",
+        "place_id": "ChIJKfORxBQQ6IkRK0FmQGJ5W1U",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJKfORxBQQ6IkRK0FmQGJ5W1U_heading_214.jpg",
+            "saved_images/ChIJKfORxBQQ6IkRK0FmQGJ5W1U_heading_239.jpg",
+            "saved_images/ChIJKfORxBQQ6IkRK0FmQGJ5W1U_heading_264.jpg"
+        ]
+    },
+    {
+        "name": "Riclos Spa",
+        "address": "1599 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 259-7417",
+        "Maps_url": "https://maps.google.com/?cid=12874892081952459985",
+        "place_id": "ChIJI6bOuWwQ6IkR0QxEaiLOrLI",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJI6bOuWwQ6IkR0QxEaiLOrLI_heading_87.jpg",
+            "saved_images/ChIJI6bOuWwQ6IkR0QxEaiLOrLI_heading_112.jpg",
+            "saved_images/ChIJI6bOuWwQ6IkR0QxEaiLOrLI_heading_137.jpg"
+        ]
+    },
+    {
+        "name": "Paci Restaurant",
+        "address": "96 Station St, Southport, CT 06890, USA",
+        "phone": "(203) 259-9600",
+        "Maps_url": "https://maps.google.com/?cid=9276511550131756119",
+        "place_id": "ChIJm_5_zJoa6IkRV1xpFBvKvIA",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJm_5_zJoa6IkRV1xpFBvKvIA_heading_15.jpg"
+        ]
+    },
+    {
+        "name": "Shearwater Coffee Bar",
+        "address": "1215 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 955-1098",
+        "Maps_url": "https://maps.google.com/?cid=3953654801942088190",
+        "place_id": "ChIJ-f-geRUQ6IkR_olGUhg03jY",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJ-f-geRUQ6IkR_olGUhg03jY_heading_266.jpg",
+            "saved_images/ChIJ-f-geRUQ6IkR_olGUhg03jY_heading_291.jpg"
+        ]
+    },
+    {
+        "name": "Sound Coffee Black Rock",
+        "address": "2889 Fairfield Ave, Bridgeport, CT 06605, USA",
+        "phone": "(475) 330-3439",
+        "Maps_url": "https://maps.google.com/?cid=16413970339527959517",
+        "place_id": "ChIJR8Y0hSoO6IkR3aNcEQ8jyuM",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJR8Y0hSoO6IkR3aNcEQ8jyuM_heading_131.jpg",
+            "saved_images/ChIJR8Y0hSoO6IkR3aNcEQ8jyuM_heading_156.jpg"
+        ]
+    },
+    {
+        "name": "Atelier BE Chocolat",
+        "address": "75 Hillside Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 292-5981",
+        "Maps_url": "https://maps.google.com/?cid=12314526831916684996",
+        "place_id": "ChIJgZlfGdwP6IkRxBZpkej85ao",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJgZlfGdwP6IkRxBZpkej85ao_heading_162.jpg"
+        ]
+    },
+    {
+        "name": "Starbucks",
+        "address": "1499 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(475) 291-3040",
+        "Maps_url": "https://maps.google.com/?cid=11426118703323083662",
+        "place_id": "ChIJ75nQTWsQ6IkRjvMEKWy6kZ4",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJ75nQTWsQ6IkRjvMEKWy6kZ4_heading_176.jpg",
+            "saved_images/ChIJ75nQTWsQ6IkRjvMEKWy6kZ4_heading_201.jpg"
+        ]
+    },
+    {
+        "name": "Seagrape Cafe",
+        "address": "1144 Reef Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 254-2669",
+        "Maps_url": "https://maps.google.com/?cid=9438896674163480819",
+        "place_id": "ChIJ47cz1UQQ6IkR81ghB4Sy_YI",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJ47cz1UQQ6IkR81ghB4Sy_YI_heading_253.jpg"
+        ]
+    },
+    {
+        "name": "Caffe 4 Quattro",
+        "address": "1603 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 259-5800",
+        "Maps_url": "https://maps.google.com/?cid=4811053665220026861",
+        "place_id": "ChIJjWDLuWwQ6IkR7eHHhtFLxEI",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJjWDLuWwQ6IkR7eHHhtFLxEI_heading_58.jpg",
+            "saved_images/ChIJjWDLuWwQ6IkR7eHHhtFLxEI_heading_83.jpg",
+            "saved_images/ChIJjWDLuWwQ6IkR7eHHhtFLxEI_heading_108.jpg"
+        ]
+    },
+    {
+        "name": "Wake-Cup-Coffee",
+        "address": "71 Constant Comment Way, Fairfield, CT 06824, USA",
+        "phone": "(203) 345-8404",
+        "Maps_url": "https://maps.google.com/?cid=3413558541750513406",
+        "place_id": "ChIJ0akTm6kP6IkR_i4KbWhlXy8",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJ0akTm6kP6IkR_i4KbWhlXy8_heading_204.jpg"
+        ]
+    },
+    {
+        "name": "Driftwood Sandwich Shop",
+        "address": "325 Pequot Ave, Southport, CT 06890, USA",
+        "phone": "(203) 255-1975",
+        "Maps_url": "https://maps.google.com/?cid=2361729265388210935",
+        "place_id": "ChIJ6eNzapsa6IkR98ob_0CMxiA",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJ6eNzapsa6IkR98ob_0CMxiA_heading_294.jpg"
+        ]
+    },
+    {
+        "name": "Fairfield University Store",
+        "address": "1499 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(475) 291-3040",
+        "Maps_url": "https://maps.google.com/?cid=9656284254039050946",
+        "place_id": "ChIJfdzQTWsQ6IkRwgoyLF4DAoY",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJfdzQTWsQ6IkRwgoyLF4DAoY_heading_182.jpg",
+            "saved_images/ChIJfdzQTWsQ6IkRwgoyLF4DAoY_heading_207.jpg"
+        ]
+    },
+    {
+        "name": "Walgreens",
+        "address": "414 Kings Hwy E, Fairfield, CT 06825, USA",
+        "phone": "(203) 336-3551",
+        "Maps_url": "https://maps.google.com/?cid=10706636281541101656",
+        "place_id": "ChIJS02jfTUO6IkRWAiRzPiclZQ",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJS02jfTUO6IkRWAiRzPiclZQ_heading_261.jpg",
+            "saved_images/ChIJS02jfTUO6IkRWAiRzPiclZQ_heading_286.jpg",
+            "saved_images/ChIJS02jfTUO6IkRWAiRzPiclZQ_heading_311.jpg"
+        ]
+    },
+    {
+        "name": "LOFT",
+        "address": "1499 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 319-0238",
+        "Maps_url": "https://maps.google.com/?cid=13234743491238241103",
+        "place_id": "ChIJo9vQTWsQ6IkRTyOrqBVBq7c",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJo9vQTWsQ6IkRTyOrqBVBq7c_heading_198.jpg"
+        ]
+    },
+    {
+        "name": "H & H Bakery",
+        "address": "2802 Fairfield Ave, Bridgeport, CT 06605, USA",
+        "phone": "(203) 382-0312",
+        "Maps_url": "https://maps.google.com/?cid=442333639461634387",
+        "place_id": "ChIJvVrOWSoO6IkRUwFR_Bl8IwY",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJvVrOWSoO6IkRUwFR_Bl8IwY_heading_289.jpg",
+            "saved_images/ChIJvVrOWSoO6IkRUwFR_Bl8IwY_heading_314.jpg"
+        ]
+    },
+    {
+        "name": "Doughnut Inn",
+        "address": "562 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 256-1908",
+        "Maps_url": "https://maps.google.com/?cid=14131763624749896734",
+        "place_id": "ChIJU7ZrMzsQ6IkRHhQBtyQcHsQ",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJU7ZrMzsQ6IkRHhQBtyQcHsQ_heading_174.jpg",
+            "saved_images/ChIJU7ZrMzsQ6IkRHhQBtyQcHsQ_heading_199.jpg"
+        ]
+    },
+    {
+        "name": "Chip City",
+        "address": "1125 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 293-0564",
+        "Maps_url": "https://maps.google.com/?cid=13998019024942382221",
+        "place_id": "ChIJx0YB7GwR6IkRjbzZdCP0QsI",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJx0YB7GwR6IkRjbzZdCP0QsI_heading_32.jpg",
+            "saved_images/ChIJx0YB7GwR6IkRjbzZdCP0QsI_heading_57.jpg"
+        ]
+    },
+    {
+        "name": "Bonkers Cupcakes",
+        "address": "1618 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(475) 988-7367",
+        "Maps_url": "https://maps.google.com/?cid=12816375394353274745",
+        "place_id": "ChIJl-_LxA8R6IkRed97YITp3LE",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJl-_LxA8R6IkRed97YITp3LE_heading_341.jpg",
+            "saved_images/ChIJl-_LxA8R6IkRed97YITp3LE_heading_6.jpg"
+        ]
+    },
+    {
+        "name": "PopUp Bagels",
+        "address": "1814 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 297-8819",
+        "Maps_url": "https://maps.google.com/?cid=15259395534548114942",
+        "place_id": "ChIJAdTlumQR6IkR_h3sE2RDxNM",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJAdTlumQR6IkR_h3sE2RDxNM_heading_322.jpg",
+            "saved_images/ChIJAdTlumQR6IkR_h3sE2RDxNM_heading_347.jpg"
+        ]
+    },
+    {
+        "name": "G Café Bakery Southport",
+        "address": "353 Pequot Ave, Southport, CT 06890, USA",
+        "phone": "(203) 955-1200",
+        "Maps_url": "https://maps.google.com/?cid=10202028640193920325",
+        "place_id": "ChIJC-jYRgAb6IkRRb0e3_7ilI0",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJC-jYRgAb6IkRRb0e3_7ilI0_heading_143.jpg"
+        ]
+    },
+    {
+        "name": "G Cafe Bakery",
+        "address": "353 Pequot Ave, Southport, CT 06890, USA",
+        "phone": "(203) 955-1200",
+        "Maps_url": "https://maps.google.com/?cid=6545427243103680523",
+        "place_id": "ChIJN3iu2p4b6IkRC_hbAGYH1lo",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJN3iu2p4b6IkRC_hbAGYH1lo_heading_143.jpg"
+        ]
+    },
+    {
+        "name": "Crumbl - Fairfield",
+        "address": "2261 Black Rock Tpke, Fairfield, CT 06825, USA",
+        "phone": "(203) 674-9755",
+        "Maps_url": "https://maps.google.com/?cid=13659312233953220086",
+        "place_id": "ChIJD1vFOvMP6IkR9tXtTBugj70",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJD1vFOvMP6IkR9tXtTBugj70_heading_198.jpg"
+        ]
+    },
+    {
+        "name": "Martel Bistro & Bar",
+        "address": "2316 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 292-6916",
+        "Maps_url": "https://maps.google.com/?cid=7495156997646943454",
+        "place_id": "ChIJ5TSyR3QQ6IkR3oSHDJQlBGg",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJ5TSyR3QQ6IkR3oSHDJQlBGg_heading_315.jpg",
+            "saved_images/ChIJ5TSyR3QQ6IkR3oSHDJQlBGg_heading_340.jpg",
+            "saved_images/ChIJ5TSyR3QQ6IkR3oSHDJQlBGg_heading_5.jpg"
+        ]
+    },
+    {
+        "name": "Flipside Burgers & Bar",
+        "address": "1125 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 292-8233",
+        "Maps_url": "https://maps.google.com/?cid=1990969639359686416",
+        "place_id": "ChIJtUlB9BUQ6IkRECefoFZYoRs",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJtUlB9BUQ6IkRECefoFZYoRs_heading_24.jpg",
+            "saved_images/ChIJtUlB9BUQ6IkRECefoFZYoRs_heading_74.jpg"
+        ]
+    },
+    {
+        "name": "Trevi Lounge",
+        "address": "548 Kings Hwy Cutoff, Fairfield, CT 06824, USA",
+        "phone": "(203) 255-0285",
+        "Maps_url": "https://maps.google.com/?cid=16986157640464486048",
+        "place_id": "ChIJmf7VJdgP6IkRoE6somD0uus",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJmf7VJdgP6IkRoE6somD0uus_heading_296.jpg",
+            "saved_images/ChIJmf7VJdgP6IkRoE6somD0uus_heading_321.jpg",
+            "saved_images/ChIJmf7VJdgP6IkRoE6somD0uus_heading_346.jpg"
+        ]
+    },
+    {
+        "name": "Brennan's Shebeen Irish Bar and Grill",
+        "address": "2652 Fairfield Ave, Bridgeport, CT 06605, USA",
+        "phone": "(203) 870-9981",
+        "Maps_url": "https://maps.google.com/?cid=17442052819357440115",
+        "place_id": "ChIJQeEPwSsO6IkRc5hmk6CeDvI",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJQeEPwSsO6IkRc5hmk6CeDvI_heading_266.jpg",
+            "saved_images/ChIJQeEPwSsO6IkRc5hmk6CeDvI_heading_291.jpg",
+            "saved_images/ChIJQeEPwSsO6IkRc5hmk6CeDvI_heading_316.jpg"
+        ]
+    },
+    {
+        "name": "Tautog Tavern",
+        "address": "2926 Fairfield Ave, Bridgeport, CT 06605, USA",
+        "phone": "(203) 916-7500",
+        "Maps_url": "https://maps.google.com/?cid=15699644233274136631",
+        "place_id": "ChIJrUBxmSoO6IkRN5hQ-D9X4Nk",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJrUBxmSoO6IkRN5hQ-D9X4Nk_heading_311.jpg",
+            "saved_images/ChIJrUBxmSoO6IkRN5hQ-D9X4Nk_heading_336.jpg",
+            "saved_images/ChIJrUBxmSoO6IkRN5hQ-D9X4Nk_heading_1.jpg"
+        ]
+    },
+    {
+        "name": "Wine N Cheese Day Spa",
+        "address": "1330 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(475) 999-8752",
+        "Maps_url": "https://maps.google.com/?cid=3497208475916055907",
+        "place_id": "ChIJ7eMle7AR6IkRYzV2cJSUiDA",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJ7eMle7AR6IkRYzV2cJSUiDA_heading_12.jpg",
+            "saved_images/ChIJ7eMle7AR6IkRYzV2cJSUiDA_heading_37.jpg",
+            "saved_images/ChIJ7eMle7AR6IkRYzV2cJSUiDA_heading_62.jpg"
+        ]
+    },
+    {
+        "name": "Gabagool Wine Bar",
+        "address": "70 Reef Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 254-2070",
+        "Maps_url": "https://maps.google.com/?cid=2967655036744989456",
+        "place_id": "ChIJ20v5dQoR6IkREHsVWYg6Lyk",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJ20v5dQoR6IkREHsVWYg6Lyk_heading_143.jpg"
+        ]
+    },
+    {
+        "name": "Luna Azzurra Italiano",
+        "address": "238 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 292-8202",
+        "Maps_url": "https://maps.google.com/?cid=337099145131773369",
+        "place_id": "ChIJ135d_nsR6IkRuc2q7-KdrQQ",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJ135d_nsR6IkRuc2q7-KdrQQ_heading_239.jpg"
+        ]
+    },
+    {
+        "name": "Rio Bravo Tacos & Tequila",
+        "address": "770 Commerce Dr, Fairfield, CT 06825, USA",
+        "phone": "(475) 282-4316",
+        "Maps_url": "https://maps.google.com/?cid=13590758349284556744",
+        "place_id": "ChIJS9p8VNEP6IkRyL9HNbYSnLw",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJS9p8VNEP6IkRyL9HNbYSnLw_heading_62.jpg",
+            "saved_images/ChIJS9p8VNEP6IkRyL9HNbYSnLw_heading_87.jpg",
+            "saved_images/ChIJS9p8VNEP6IkRyL9HNbYSnLw_heading_112.jpg"
+        ]
+    },
+    {
+        "name": "Matty's Corner",
+        "address": "2816 Fairfield Ave, Bridgeport, CT 06605, USA",
+        "phone": "N/A",
+        "Maps_url": "https://maps.google.com/?cid=16411814034296225177",
+        "place_id": "ChIJn4cIWSoO6IkRmT3_Iel5wuM",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJn4cIWSoO6IkRmT3_Iel5wuM_heading_350.jpg"
+        ]
+    },
+    {
+        "name": "Frankies Sport Lounge",
+        "address": "2716 Fairfield Ave, Bridgeport, CT 06605, USA",
+        "phone": "(203) 450-1354",
+        "Maps_url": "https://maps.google.com/?cid=6976849967490628858",
+        "place_id": "ChIJ2ccctysO6IkR-nx5mxTA0mA",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJ2ccctysO6IkR-nx5mxTA0mA_heading_328.jpg",
+            "saved_images/ChIJ2ccctysO6IkR-nx5mxTA0mA_heading_353.jpg"
+        ]
+    },
+    {
+        "name": "O'Neil's Bar & Lounge",
+        "address": "2720 Fairfield Ave, Bridgeport, CT 06605, USA",
+        "phone": "(203) 267-9627",
+        "Maps_url": "https://maps.google.com/?cid=17656033622117760613",
+        "place_id": "ChIJoYUfqM0P6IkRZb6unAjVBvU",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJoYUfqM0P6IkRZb6unAjVBvU_heading_307.jpg",
+            "saved_images/ChIJoYUfqM0P6IkRZb6unAjVBvU_heading_332.jpg"
+        ]
+    },
+    {
+        "name": "The Shebeen of Black Rock",
+        "address": "2652 Fairfield Ave, Bridgeport, CT 06605, USA",
+        "phone": "(203) 870-9981",
+        "Maps_url": "https://maps.google.com/?cid=18205129338568245166",
+        "place_id": "ChIJWeDDP_oP6IkRrv9ms62cpfw",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJWeDDP_oP6IkRrv9ms62cpfw_heading_271.jpg",
+            "saved_images/ChIJWeDDP_oP6IkRrv9ms62cpfw_heading_296.jpg",
+            "saved_images/ChIJWeDDP_oP6IkRrv9ms62cpfw_heading_321.jpg"
+        ]
+    },
+    {
+        "name": "Little Goose Cafe",
+        "address": "397 Commerce Dr, Fairfield, CT 06825, USA",
+        "phone": "(203) 296-9789",
+        "Maps_url": "https://maps.google.com/?cid=14418407926748498966",
+        "place_id": "ChIJ9yriVy0O6IkRFkyFDJ55GMg",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJ9yriVy0O6IkRFkyFDJ55GMg_heading_106.jpg",
+            "saved_images/ChIJ9yriVy0O6IkRFkyFDJ55GMg_heading_131.jpg",
+            "saved_images/ChIJ9yriVy0O6IkRFkyFDJ55GMg_heading_156.jpg"
+        ]
+    },
+    {
+        "name": "El Rey Azteca Lounge",
+        "address": "2288 Fairfield Ave, Bridgeport, CT 06605, USA",
+        "phone": "(203) 285-0869",
+        "Maps_url": "https://maps.google.com/?cid=6528757302075925156",
+        "place_id": "ChIJU1cQHlwP6IkRpCL55izOmlo",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJU1cQHlwP6IkRpCL55izOmlo_heading_272.jpg"
+        ]
+    },
+    {
+        "name": "Pious Bird of Good Omen",
+        "address": "2960 Fairfield Ave, Bridgeport, CT 06605, USA",
+        "phone": "(203) 540-5175",
+        "Maps_url": "https://maps.google.com/?cid=17792861591765660364",
+        "place_id": "ChIJu-5IkyoQ6IkRzDLi2ljx7PY",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJu-5IkyoQ6IkRzDLi2ljx7PY_heading_358.jpg"
+        ]
+    },
+    {
+        "name": "Apricot Lane Boutique",
+        "address": "1499 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 292-9888",
+        "Maps_url": "https://maps.google.com/?cid=12092472395107702284",
+        "place_id": "ChIJaXtPWmsQ6IkRDJacHpMX0ac",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJaXtPWmsQ6IkRDJacHpMX0ac_heading_208.jpg"
+        ]
+    },
+    {
+        "name": "Marathon Sports",
+        "address": "1596 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 292-9466",
+        "Maps_url": "https://maps.google.com/?cid=6305112019552570803",
+        "place_id": "ChIJS_CjsWwQ6IkRsw160vlBgFc",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJS_CjsWwQ6IkRsw160vlBgFc_heading_325.jpg"
+        ]
+    },
+    {
+        "name": "Veso Creations",
+        "address": "2704 Fairfield Ave, Bridgeport, CT 06605, USA",
+        "phone": "(203) 908-3130",
+        "Maps_url": "https://maps.google.com/?cid=6289433580741556199",
+        "place_id": "ChIJ0eM_tysO6IkR53eD0oSOSFc",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJ0eM_tysO6IkR53eD0oSOSFc_heading_304.jpg",
+            "saved_images/ChIJ0eM_tysO6IkR53eD0oSOSFc_heading_329.jpg"
+        ]
+    },
+    {
+        "name": "The Tennis Spot",
+        "address": "1510 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 254-2830",
+        "Maps_url": "https://maps.google.com/?cid=4567845383103160683",
+        "place_id": "ChIJ0W9lUmsQ6IkRa6HFqCw_ZD8",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJ0W9lUmsQ6IkRa6HFqCw_ZD8_heading_324.jpg",
+            "saved_images/ChIJ0W9lUmsQ6IkRa6HFqCw_ZD8_heading_349.jpg",
+            "saved_images/ChIJ0W9lUmsQ6IkRa6HFqCw_ZD8_heading_14.jpg"
+        ]
+    },
+    {
+        "name": "Snappy Gator",
+        "address": "1438 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 254-7222",
+        "Maps_url": "https://maps.google.com/?cid=11231846946960439104",
+        "place_id": "ChIJ4ZwPyxQQ6IkRQPchFUqJ35s",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJ4ZwPyxQQ6IkRQPchFUqJ35s_heading_18.jpg"
+        ]
+    },
+    {
+        "name": "La Moda Fashions",
+        "address": "1434 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 254-2112",
+        "Maps_url": "https://maps.google.com/?cid=7558285041730690375",
+        "place_id": "ChIJCfV8yxQQ6IkRR52BLzNs5Gg",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJCfV8yxQQ6IkRR52BLzNs5Gg_heading_21.jpg"
+        ]
+    },
+    {
+        "name": "JANE + MERCER",
+        "address": "1530 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(475) 999-8376",
+        "Maps_url": "https://maps.google.com/?cid=7522655831371413431",
+        "place_id": "ChIJm987N_YR6IkRt_dpNJ_XZWg",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJm987N_YR6IkRt_dpNJ_XZWg_heading_82.jpg",
+            "saved_images/ChIJm987N_YR6IkRt_dpNJ_XZWg_heading_107.jpg"
+        ]
+    },
+    {
+        "name": "Marea",
+        "address": "1552 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 292-3029",
+        "Maps_url": "https://maps.google.com/?cid=2929503171320763711",
+        "place_id": "ChIJK7ChfwsR6IkRP1X09pyvpyg",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJK7ChfwsR6IkRP1X09pyvpyg_heading_234.jpg"
+        ]
+    },
+    {
+        "name": "Black Rock Vintage",
+        "address": "3008 Fairfield Ave, Bridgeport, CT 06605, USA",
+        "phone": "(475) 332-0917",
+        "Maps_url": "https://maps.google.com/?cid=422710289388758105",
+        "place_id": "ChIJT0G5EUoR6IkRWWTrwcTE3QU",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJT0G5EUoR6IkRWWTrwcTE3QU_heading_288.jpg"
+        ]
+    },
+    {
+        "name": "Quinceaña & Bridal Boutique",
+        "address": "Bridgeport, CT 06605, USA",
+        "phone": "N/A",
+        "Maps_url": "https://maps.google.com/?cid=15079747555609172171",
+        "place_id": "ChIJ299LsSsO6IkRy1imgoEGRtE",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJ299LsSsO6IkRy1imgoEGRtE_heading_254.jpg",
+            "saved_images/ChIJ299LsSsO6IkRy1imgoEGRtE_heading_304.jpg"
+        ]
+    },
+    {
+        "name": "J.McLaughlin",
+        "address": "342 Pequot Ave, Southport, CT 06890, USA",
+        "phone": "(203) 955-1555",
+        "Maps_url": "https://maps.google.com/?cid=9774386659706110374",
+        "place_id": "ChIJjxKgQJsa6IkRpoEZTeGYpYc",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJjxKgQJsa6IkRpoEZTeGYpYc_heading_287.jpg",
+            "saved_images/ChIJjxKgQJsa6IkRpoEZTeGYpYc_heading_312.jpg",
+            "saved_images/ChIJjxKgQJsa6IkRpoEZTeGYpYc_heading_337.jpg"
+        ]
+    },
+    {
+        "name": "Coco and Company",
+        "address": "3310 Post Rd, Southport, CT 06890, USA",
+        "phone": "(475) 888-9779",
+        "Maps_url": "https://maps.google.com/?cid=4728977149757738685",
+        "place_id": "ChIJo6WYSWkb6IkRvc4_mqmzoEE",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJo6WYSWkb6IkRvc4_mqmzoEE_heading_325.jpg",
+            "saved_images/ChIJo6WYSWkb6IkRvc4_mqmzoEE_heading_350.jpg",
+            "saved_images/ChIJo6WYSWkb6IkRvc4_mqmzoEE_heading_15.jpg"
+        ]
+    },
+    {
+        "name": "Fairfield Market",
+        "address": "2272 Fairfield Ave, Bridgeport, CT 06605, USA",
+        "phone": "(203) 368-6907",
+        "Maps_url": "https://maps.google.com/?cid=7262915841419704860",
+        "place_id": "ChIJMUOoyi8O6IkRHPpgKXoPy2Q",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJMUOoyi8O6IkRHPpgKXoPy2Q_heading_308.jpg",
+            "saved_images/ChIJMUOoyi8O6IkRHPpgKXoPy2Q_heading_333.jpg"
+        ]
+    },
+    {
+        "name": "Edible Arrangements",
+        "address": "1139 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 873-0500",
+        "Maps_url": "https://maps.google.com/?cid=5455758926990337982",
+        "place_id": "ChIJf2V3iRUQ6IkRvudsl9a_tks",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJf2V3iRUQ6IkRvudsl9a_tks_heading_51.jpg",
+            "saved_images/ChIJf2V3iRUQ6IkRvudsl9a_tks_heading_76.jpg"
+        ]
+    },
+    {
+        "name": "Eddy Ross Floristeria",
+        "address": "2856 Fairfield Ave 1 piso, Bridgeport, CT 06605, USA",
+        "phone": "(203) 870-8064",
+        "Maps_url": "https://maps.google.com/?cid=2970878298866870126",
+        "place_id": "ChIJAdb0j94P6IkRbmfgihKuOik",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJAdb0j94P6IkRbmfgihKuOik_heading_280.jpg",
+            "saved_images/ChIJAdb0j94P6IkRbmfgihKuOik_heading_305.jpg",
+            "saved_images/ChIJAdb0j94P6IkRbmfgihKuOik_heading_330.jpg"
+        ]
+    },
+    {
+        "name": "Blossoms at Dailey's Flower Shop",
+        "address": "2151 Black Rock Tpke, Fairfield, CT 06825, USA",
+        "phone": "(203) 336-1895",
+        "Maps_url": "https://maps.google.com/?cid=15426354721391323488",
+        "place_id": "ChIJvfII0L8P6IkRYCmzA-NrFdY",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJvfII0L8P6IkRYCmzA-NrFdY_heading_169.jpg",
+            "saved_images/ChIJvfII0L8P6IkRYCmzA-NrFdY_heading_194.jpg",
+            "saved_images/ChIJvfII0L8P6IkRYCmzA-NrFdY_heading_219.jpg"
+        ]
+    },
+    {
+        "name": "Poster Hardware and Houseware",
+        "address": "2155 Black Rock Tpke, Fairfield, CT 06825, USA",
+        "phone": "(203) 368-3242",
+        "Maps_url": "https://maps.google.com/?cid=8665484948193965409",
+        "place_id": "ChIJAQBU2r8P6IkRYXWYD6b8QXg",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJAQBU2r8P6IkRYXWYD6b8QXg_heading_193.jpg",
+            "saved_images/ChIJAQBU2r8P6IkRYXWYD6b8QXg_heading_218.jpg",
+            "saved_images/ChIJAQBU2r8P6IkRYXWYD6b8QXg_heading_243.jpg"
+        ]
+    },
+    {
+        "name": "Follett Book Store",
+        "address": "1499 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 255-7756",
+        "Maps_url": "https://maps.google.com/?cid=7061647350746151561",
+        "place_id": "ChIJJRb9TWsQ6IkRiXpN7tkCAGI",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJJRb9TWsQ6IkRiXpN7tkCAGI_heading_143.jpg",
+            "saved_images/ChIJJRb9TWsQ6IkRiXpN7tkCAGI_heading_168.jpg",
+            "saved_images/ChIJJRb9TWsQ6IkRiXpN7tkCAGI_heading_193.jpg"
+        ]
+    },
+    {
+        "name": "DSW Designer Shoe Warehouse",
+        "address": "696 Post Rd, Fairfield, CT 06824, USA",
+        "phone": "(475) 999-7000",
+        "Maps_url": "https://maps.google.com/?cid=11979536355970630905",
+        "place_id": "ChIJWRXfqjwQ6IkR-cSBb9jcP6Y",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJWRXfqjwQ6IkR-cSBb9jcP6Y_heading_276.jpg",
+            "saved_images/ChIJWRXfqjwQ6IkR-cSBb9jcP6Y_heading_301.jpg",
+            "saved_images/ChIJWRXfqjwQ6IkR-cSBb9jcP6Y_heading_326.jpg"
+        ]
+    },
+    {
+        "name": "World TaeKwonDO(Master KJ‘s)",
+        "address": "85 Mill Plain Rd, Fairfield, CT 06824, USA",
+        "phone": "(203) 319-1333",
+        "Maps_url": "https://maps.google.com/?cid=6340197343753744574",
+        "place_id": "ChIJWcS0rBIQ6IkRvjBRcOTn_Fc",
+        "city": "Fairfield",
+        "image_filepaths": [
+            "saved_images/ChIJWcS0rBIQ6IkRvjBRcOTn_Fc_heading_198.jpg"
+        ]
+    }
+]
